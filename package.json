@@ -1,0 +1,25 @@
+{
+  "name": "cooptris",
+  "version": "1.0.0",
+  "description": "Co-op Tetris",
+  "engines": {
+    "node": "9.4.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.16.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aimee-MacDonald/cooptris.git"
+  },
+  "author": "Aimee MacDonald",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aimee-MacDonald/cooptris/issues"
+  },
+  "homepage": "https://github.com/Aimee-MacDonald/cooptris#readme"
+}
